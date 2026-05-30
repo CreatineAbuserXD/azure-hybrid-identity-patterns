@@ -27,32 +27,6 @@ This repo summarizes common patterns for deciding when to:
 
 ---
 
-## Core building blocks
-
-### Microsoft Entra ID
-
-Modern cloud identity platform for SaaS, Azure, conditional access, MFA, app registrations, enterprise applications, OIDC, OAuth2 and SAML-based authentication.
-
-### Active Directory Domain Services
-
-Classic Windows identity platform providing domain join, Kerberos, NTLM, LDAP/LDAPS, Group Policy, AD DNS and traditional service account patterns.
-
-### Domain Controllers on Azure VMs
-
-Writable AD DS domain controllers deployed as Azure virtual machines to provide AD DS, DNS and authentication services close to Azure-hosted workloads.
-
-### Microsoft Entra Connect
-
-Synchronization engine between AD DS and Microsoft Entra ID. Commonly used for hybrid identity scenarios.
-
-### Entra Connect Staging Mode
-
-A prepared Entra Connect server that imports and synchronizes internally but does not export changes. Useful for validation, migration and disaster recovery.
-
-### VPN / ExpressRoute
-
-Connectivity layer between on-premises infrastructure and Azure. Required for hybrid scenarios where systems across both environments need to communicate.
-
 ---
 
 ## High-level decision question
