@@ -5,6 +5,8 @@ Practical architecture notes for hybrid identity scenarios involving AD DS, Micr
 > This repository is not a step-by-step deployment guide.  
 > It is a collection of architecture patterns, decision points, and migration considerations.
 
+![Azure Hybrid Identity Patterns](./assets/AzureHybridIdentity.png)
+
 ---
 
 ## Why this repository exists
