@@ -5,7 +5,10 @@ Practical architecture notes for hybrid identity scenarios involving AD DS, Micr
 > This repository is not a step-by-step deployment guide.  
 > It is a collection of architecture patterns, decision points, and migration considerations.
 
-![Azure Hybrid Identity Patterns](./assets/AzureHybridIdentity.png)
+
+<p align="center">
+  <img src="./assets/assets/AzureHybridIdentity.png" alt="Azure Hybrid Identity Patterns" width="100%">
+</p>
 
 ---
 
@@ -59,3 +62,9 @@ Before choosing a pattern, clarify the target state:
 ```text
 Are we preserving AD-dependent workloads in Azure,
 or are we trying to modernize away from AD DS dependencies?
+```
+
+---
+
+
+
