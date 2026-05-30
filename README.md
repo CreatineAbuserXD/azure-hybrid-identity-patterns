@@ -7,7 +7,7 @@ Practical architecture notes for hybrid identity scenarios involving AD DS, Micr
 
 
 <p align="center">
-  <img src="./assets/assets/AzureHybridIdentity.png" alt="Azure Hybrid Identity Patterns" width="100%">
+  <img src="./assets/AzureHybridIdentity.png" alt="Azure Hybrid Identity Patterns" width="100%">
 </p>
 
 ---
