@@ -74,3 +74,7 @@ or are we trying to modernize away from AD DS dependencies?
 >
 > **Longevity**
 > `Permanent` — valid long-term target state · `Transitional` — active modernization phase, expected to evolve · `Bridge` — intentionally temporary, plan your exit upfront
+
+---
+
+## Decision Tree 
